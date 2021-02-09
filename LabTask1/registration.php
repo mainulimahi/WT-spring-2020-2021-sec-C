@@ -29,17 +29,21 @@
   <label for="other">Other</label>
 <br>
 <br>
-<!-- Birthday -->
+<table><!-- Birthday -->
 <tr><td>
 <label for="Birthday">Date of Birth</label><input type="date" id="date" name="date">
 </td></tr>
 
 <br>
-<br>
+
 <tr><td>
 <input type="submit" value="submit"></td>
+<br>
 
 <tr><td><input type="reset" value="reset"></td></tr>
+
+</table>
+
 </form>
 
 
