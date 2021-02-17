@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Registration Page</title>
+    <h2>Registration</h2>
 </head>
 <body>
 <form>
