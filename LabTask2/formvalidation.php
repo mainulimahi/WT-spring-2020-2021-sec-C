@@ -11,6 +11,7 @@
 $validateName = "";
 $validateEmail = "";
 $genderValidation = "";
+$validPassword="";
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $name = $_REQUEST["fname"];
